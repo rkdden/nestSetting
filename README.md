@@ -36,7 +36,7 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
+$ npm run start:
 
 # watch mode
 $ npm run start:dev
@@ -71,3 +71,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## 추가 파일
+* eslint 탭 크기 4 및 룰 추가 적용
+* 핫 리로딩 적용
+* .env 적용
+* logger 미들웨어 적용
