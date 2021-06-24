@@ -77,3 +77,9 @@ Nest is [MIT licensed](LICENSE).
 * 핫 리로딩 적용
 * .env 적용
 * logger 미들웨어 적용
+
+
+* nest g mo (모듈명) : 모듈 생성
+  * 폴더명은 복수로 하자
+* nest g s (서비스명) : 서비스 생성
+* nest g co (컨트롤러명) : 컨트롤러 생성
