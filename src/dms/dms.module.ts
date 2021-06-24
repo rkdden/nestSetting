@@ -1,4 +1,7 @@
 import { Module } from '@nestjs/common';
 
-@Module({})
+@Module({
+  providers: [],
+  controllers: [],
+})
 export class DmsModule {}
